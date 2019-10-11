@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">p3leco</string>
+    <string name="delay">practica 3 delay esperando...</string>
+    <string name="postdelay">practica 3 delay exitosa!!</string>
+</resources>
